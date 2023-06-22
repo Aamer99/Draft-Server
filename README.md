@@ -2,7 +2,7 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/Aamer99/Draft-Server.git)
 ```
 
 Go to the project directory
